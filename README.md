@@ -66,7 +66,7 @@ Ensure you have the following installed:
 ```plaintext
 sentiment-analysis-of-amazon-product-review/
 ├── Reviews.csv
-├── sentiment_analysis.py
+├── analysis.py
 ├── requirements.txt
 └── README.md
 ```
@@ -76,7 +76,7 @@ sentiment-analysis-of-amazon-product-review/
 Execute the sentiment analysis script:
 
 ```bash
-python sentiment_analysis.py
+python analysis.py
 ```
 
 This script will:
